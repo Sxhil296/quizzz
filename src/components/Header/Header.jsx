@@ -15,36 +15,37 @@ import { ModeToggle } from "../mode-toggle";
 const Header = () => {
   return (
     <header className="bg-transparent dark:border-white dark:text-white w-full border-b-2 border-black py-2 px-0">
-    <div className="container mx-auto flex items-center justify-between px-2">
-    <div className="sm:text-2xl text-xl font-medium dark:text-white"><Link to='/'>Quizzz</Link></div>
-      <div className="flex gap-2 sm:gap-4">
-       <Button >
-       <DropdownMenu variant="outline">
-          <DropdownMenuTrigger>Quizzes</DropdownMenuTrigger>
-          <DropdownMenuContent>
-            {/* <DropdownMenuSeparator /> */}
-            <DropdownMenuItem>
-              <Link to="/prophets-quiz">Prophets Quiz</Link>
-            </DropdownMenuItem>
-            <DropdownMenuItem>
-              <Link to="/quran-quiz">Quran Quiz</Link>
-            </DropdownMenuItem>
-            <DropdownMenuItem>
-              <Link to="/history-quiz">History Quiz</Link>
-            </DropdownMenuItem>
-          </DropdownMenuContent>
-        </DropdownMenu>
-       </Button>
-
-        <Link>
-          <Button variant="outline" className="hidden sm:block">
-            <Link to={'https://github.com/Sxhil296/quizzz'}><GitHub /></Link>
-            
+      <div className="container mx-auto flex items-center justify-between px-2">
+        <div className="sm:text-2xl text-xl font-medium dark:text-white">
+          <Link to="/">Quizzz</Link>
+        </div>
+        <div className="flex gap-2 sm:gap-4">
+          <Button>
+            <DropdownMenu variant="outline">
+              <DropdownMenuTrigger>Quizzes</DropdownMenuTrigger>
+              <DropdownMenuContent>
+                {/* <DropdownMenuSeparator /> */}
+                <DropdownMenuItem>
+                  <Link to="/prophets-quiz">Prophets Quiz</Link>
+                </DropdownMenuItem>
+                <DropdownMenuItem>
+                  <Link to="/quran-quiz">Quran Quiz</Link>
+                </DropdownMenuItem>
+                <DropdownMenuItem>
+                  <Link to="/history-quiz">History Quiz</Link>
+                </DropdownMenuItem>
+              </DropdownMenuContent>
+            </DropdownMenu>
           </Button>
-        </Link>
-        <ModeToggle />
+
+          <Link to="https://github.com/Sxhil296/quizzz">
+            <Button variant="outline" className="hidden sm:block">
+              <GitHub />
+            </Button>
+          </Link>
+          <ModeToggle />
+        </div>
       </div>
-    </div>
     </header>
   );
 };

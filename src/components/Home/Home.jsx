@@ -18,7 +18,7 @@ const Home = () => {
       <div className="sm:mt-4">
         <div className="flex gap-2 flex-col">
           <div className="flex gap-2 sm:gap-4 flex-1 ">
-            <p className="font-medium dark:text-gray-400">
+            <p className="font-medium dark:text-gray-400 ">
               Test your knowledge on various topics related to{" "}
               <span className="dark:text-white underline">Islam</span>. Quizzz
               offers quizzes on prophets, Quran, history, and more. Challenge
@@ -37,7 +37,7 @@ const Home = () => {
             </div>
           </div>
           <p className="font-medium dark:text-gray-400 mt-4 mb-2">
-            Quizzz is a developed with ReactJS, TailwindCSS, and Shacdn. While
+            Quizzz is  developed with ReactJS, TailwindCSS, and ShadCN. While
             some questions may require refinement, Quizzz welcomes contributions
             from users to enhance its content. Feel free to contribute and help
             make Quizzz a more comprehensive and accurate resource for learning
