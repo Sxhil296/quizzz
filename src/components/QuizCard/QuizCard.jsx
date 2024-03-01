@@ -21,6 +21,7 @@ const QuizCard = ({
   currentQuestion,
 }) => {
   const [isAnswered, setIsAnswered] = useState(false);
+  const [selectedOption, setSelectedOption] = useState(null);
   const [score, setScore] = useState(0);
 
   const handleOptionSelect = (isCorrect) => {
@@ -35,11 +36,13 @@ const QuizCard = ({
 
   const handleNext = () => {
     setIsAnswered(false);
+    setSelectedOption(null);
     handleNextClick();
   };
 
   const handlePrevious = () => {
     setIsAnswered(false);
+    setSelectedOption(null);
     handlePreviousClick();
   };
 
@@ -59,10 +62,11 @@ const QuizCard = ({
             {options.map((option, index) => (
               <div className="flex items-center space-x-2" key={index}>
                 <RadioGroupItem
-                  value={option.text}
+                  value={index}
                   id={`r${index}`}
                   onClick={() => handleOptionSelect(option.isCorrect)}
                   disabled={isAnswered}
+                  checked={selectedOption === index}
                   className={`radio-item ${
                     isAnswered && option.isCorrect ? "bg-[#66f332]" : ""
                   }`}

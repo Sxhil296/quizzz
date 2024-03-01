@@ -74,9 +74,9 @@
   {
     "question": "Which prophet is mentioned most frequently in the Quran?",
     "options": [
-      { "text": "Prophet Musa", "isCorrect": false },
+      { "text": "Prophet Musa", "isCorrect": true },
       { "text": "Prophet Ibrahim", "isCorrect": false },
-      { "text": "Prophet Muhammad", "isCorrect": true },
+      { "text": "Prophet Muhammad", "isCorrect": false },
       { "text": "Prophet Isa", "isCorrect": false }
     ]
   },
@@ -87,15 +87,6 @@
       { "text": "Prophet Isma'il", "isCorrect": false },
       { "text": "Prophet Adam", "isCorrect": false },
       { "text": "Prophet Yunus", "isCorrect": false }
-    ]
-  },
-  {
-    "question": "Which prophet is known as the 'City-Destroyer'?",
-    "options": [
-      { "text": "Prophet Hud", "isCorrect": true },
-      { "text": "Prophet Saleh", "isCorrect": false },
-      { "text": "Prophet Lut", "isCorrect": false },
-      { "text": "Prophet Shu'ayb", "isCorrect": false }
     ]
   },
   {
@@ -132,15 +123,6 @@
       { "text": "Prophet Muhammad", "isCorrect": false },
       { "text": "Prophet Ibrahim", "isCorrect": false },
       { "text": "Prophet Musa", "isCorrect": false }
-    ]
-  },
-  {
-    "question": "Which prophet is known for his message to worship only Allah?",
-    "options": [
-      { "text": "Prophet Ibrahim", "isCorrect": true },
-      { "text": "Prophet Isa", "isCorrect": false },
-      { "text": "Prophet Musa", "isCorrect": false },
-      { "text": "Prophet Muhammad", "isCorrect": false }
     ]
   },
   {
