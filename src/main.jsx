@@ -13,6 +13,7 @@ import Home from "./components/Home/Home.jsx";
 import ProphetsQuiz from "./components/ProphetsQuiz/ProphetsQuiz.jsx";
 import QuranQuiz from "./components/QuranQuiz/QuranQuiz.jsx";
 import HistoryQuiz from "./components/HistoryQuiz/HistoryQuiz.jsx";
+import { ThemeProvider } from "@/components/theme-provider";
 
 const router = createBrowserRouter(
   createRoutesFromElements(
@@ -28,6 +29,9 @@ const router = createBrowserRouter(
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
     {/* <App /> */}
-    <RouterProvider router={router} />
+    <ThemeProvider defaultTheme="dark" storageKey="vite-ui-theme">
+      {/* {children} */}
+      <RouterProvider router={router} />
+    </ThemeProvider>
   </React.StrictMode>
 );

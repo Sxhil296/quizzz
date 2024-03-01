@@ -1,0 +1,227 @@
+[
+  {
+    "question": "Who was the last prophet in Islam?",
+    "options": [
+      { "text": "Prophet Muhammad", "isCorrect": true },
+      { "text": "Prophet Ibrahim", "isCorrect": false },
+      { "text": "Prophet Musa", "isCorrect": false },
+      { "text": "Prophet Isa", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which prophet is known as the 'Seal of the Prophets'?",
+    "options": [
+      { "text": "Prophet Isa", "isCorrect": false },
+      { "text": "Prophet Ibrahim", "isCorrect": false },
+      { "text": "Prophet Muhammad", "isCorrect": true },
+      { "text": "Prophet Musa", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which prophet is known for his wisdom?",
+    "options": [
+      { "text": "Prophet Sulaiman", "isCorrect": true },
+      { "text": "Prophet Isa", "isCorrect": false },
+      { "text": "Prophet Ibrahim", "isCorrect": false },
+      { "text": "Prophet Musa", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which prophet is known for his strength and patience?",
+    "options": [
+      { "text": "Prophet Ayyub", "isCorrect": false },
+      { "text": "Prophet Yusuf", "isCorrect": false },
+      { "text": "Prophet Musa", "isCorrect": true },
+      { "text": "Prophet Isa", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which prophet is known as the 'Prophet of Tawheed'?",
+    "options": [
+      { "text": "Prophet Ibrahim", "isCorrect": true },
+      { "text": "Prophet Musa", "isCorrect": false },
+      { "text": "Prophet Isa", "isCorrect": false },
+      { "text": "Prophet Muhammad", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which prophet is known as the 'Father of the Prophets'?",
+    "options": [
+      { "text": "Prophet Muhammad", "isCorrect": false },
+      { "text": "Prophet Adam", "isCorrect": true },
+      { "text": "Prophet Ibrahim", "isCorrect": false },
+      { "text": "Prophet Noah", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which prophet is known for his patience?",
+    "options": [
+      { "text": "Prophet Musa", "isCorrect": false },
+      { "text": "Prophet Yusuf", "isCorrect": false },
+      { "text": "Prophet Ayyub", "isCorrect": true },
+      { "text": "Prophet Ibrahim", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which prophet is known as the 'Friend of Allah'?",
+    "options": [
+      { "text": "Prophet Isa", "isCorrect": false },
+      { "text": "Prophet Ibrahim", "isCorrect": true },
+      { "text": "Prophet Musa", "isCorrect": false },
+      { "text": "Prophet Dawud", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which prophet is mentioned most frequently in the Quran?",
+    "options": [
+      { "text": "Prophet Musa", "isCorrect": false },
+      { "text": "Prophet Ibrahim", "isCorrect": false },
+      { "text": "Prophet Muhammad", "isCorrect": true },
+      { "text": "Prophet Isa", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which prophet is known for building the Kaaba in Mecca?",
+    "options": [
+      { "text": "Prophet Ibrahim", "isCorrect": true },
+      { "text": "Prophet Isma'il", "isCorrect": false },
+      { "text": "Prophet Adam", "isCorrect": false },
+      { "text": "Prophet Yunus", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which prophet is known as the 'City-Destroyer'?",
+    "options": [
+      { "text": "Prophet Hud", "isCorrect": true },
+      { "text": "Prophet Saleh", "isCorrect": false },
+      { "text": "Prophet Lut", "isCorrect": false },
+      { "text": "Prophet Shu'ayb", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which prophet is known for his preaching to the people of Nineveh?",
+    "options": [
+      { "text": "Prophet Yunus", "isCorrect": true },
+      { "text": "Prophet Ibrahim", "isCorrect": false },
+      { "text": "Prophet Isa", "isCorrect": false },
+      { "text": "Prophet Musa", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which prophet is known for his dream interpretation skills?",
+    "options": [
+      { "text": "Prophet Ibrahim", "isCorrect": false },
+      { "text": "Prophet Yusuf", "isCorrect": true },
+      { "text": "Prophet Ayyub", "isCorrect": false },
+      { "text": "Prophet Isa", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which prophet is known as the 'Comforter of the Eyes'?",
+    "options": [
+      { "text": "Prophet Isa", "isCorrect": false },
+      { "text": "Prophet Muhammad", "isCorrect": true },
+      { "text": "Prophet Ibrahim", "isCorrect": false },
+      { "text": "Prophet Musa", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which prophet is known for his miraculous birth?",
+    "options": [
+      { "text": "Prophet Isa", "isCorrect": true },
+      { "text": "Prophet Muhammad", "isCorrect": false },
+      { "text": "Prophet Ibrahim", "isCorrect": false },
+      { "text": "Prophet Musa", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which prophet is known for his message to worship only Allah?",
+    "options": [
+      { "text": "Prophet Ibrahim", "isCorrect": true },
+      { "text": "Prophet Isa", "isCorrect": false },
+      { "text": "Prophet Musa", "isCorrect": false },
+      { "text": "Prophet Muhammad", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which prophet is known as the 'Warner'?",
+    "options": [
+      { "text": "Prophet Ibrahim", "isCorrect": false },
+      { "text": "Prophet Nuh", "isCorrect": true },
+      { "text": "Prophet Isa", "isCorrect": false },
+      { "text": "Prophet Musa", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which prophet is known for his miracle of parting the sea?",
+    "options": [
+      { "text": "Prophet Isa", "isCorrect": false },
+      { "text": "Prophet Musa", "isCorrect": true },
+      { "text": "Prophet Ibrahim", "isCorrect": false },
+      { "text": "Prophet Yunus", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which prophet is known for his miracle of the staff?",
+    "options": [
+      { "text": "Prophet Musa", "isCorrect": true },
+      { "text": "Prophet Isa", "isCorrect": false },
+      { "text": "Prophet Ibrahim", "isCorrect": false },
+      { "text": "Prophet Dawud", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which prophet is known for his prayer for a son?",
+    "options": [
+      { "text": "Prophet Ibrahim", "isCorrect": false },
+      { "text": "Prophet Zakariya", "isCorrect": true },
+      { "text": "Prophet Ayyub", "isCorrect": false },
+      { "text": "Prophet Yunus", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which prophet is known for his message of monotheism to the people of Thamud?",
+    "options": [
+      { "text": "Prophet Hud", "isCorrect": true },
+      { "text": "Prophet Saleh", "isCorrect": false },
+      { "text": "Prophet Shu'ayb", "isCorrect": false },
+      { "text": "Prophet Lut", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which prophet is known for his patience and gratitude?",
+    "options": [
+      { "text": "Prophet Ayyub", "isCorrect": true },
+      { "text": "Prophet Musa", "isCorrect": false },
+      { "text": "Prophet Isa", "isCorrect": false },
+      { "text": "Prophet Ibrahim", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which prophet is known for his bravery and leadership?",
+    "options": [
+      { "text": "Prophet Musa", "isCorrect": false },
+      { "text": "Prophet Dawud", "isCorrect": true },
+      { "text": "Prophet Ibrahim", "isCorrect": false },
+      { "text": "Prophet Isa", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which prophet is known for his message of repentance to the people of Nineveh?",
+    "options": [
+      { "text": "Prophet Yunus", "isCorrect": true },
+      { "text": "Prophet Ibrahim", "isCorrect": false },
+      { "text": "Prophet Isa", "isCorrect": false },
+      { "text": "Prophet Musa", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which prophet is known for his skill in archery?",
+    "options": [
+      { "text": "Prophet Ibrahim", "isCorrect": false },
+      { "text": "Prophet Yusuf", "isCorrect": false },
+      { "text": "Prophet Lut", "isCorrect": true },
+      { "text": "Prophet Isa", "isCorrect": false }
+    ]
+  }
+]
