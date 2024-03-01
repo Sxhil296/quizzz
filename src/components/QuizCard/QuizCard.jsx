@@ -24,9 +24,10 @@ const QuizCard = ({
   const [selectedOption, setSelectedOption] = useState(null);
   const [score, setScore] = useState(0);
 
-  const handleOptionSelect = (isCorrect) => {
+  const handleOptionSelect = (isCorrect, index) => {
     if (!isAnswered) {
       setIsAnswered(true);
+      setSelectedOption(index);
       handleOptionClick(isCorrect);
       if (isCorrect) {
         setScore(score + 1);
@@ -54,7 +55,7 @@ const QuizCard = ({
             {quizName}
           </CardTitle>
           <CardDescription className="text-left text-[18px] font-medium">
-            Question {currentQuestion + 1}: {question}
+            {currentQuestion + 1}: {question}
           </CardDescription>
         </CardHeader>
         <CardContent>
@@ -64,11 +65,15 @@ const QuizCard = ({
                 <RadioGroupItem
                   value={index}
                   id={`r${index}`}
-                  onClick={() => handleOptionSelect(option.isCorrect)}
+                  onClick={() => handleOptionSelect(option.isCorrect, index)}
                   disabled={isAnswered}
                   checked={selectedOption === index}
                   className={`radio-item ${
-                    isAnswered && option.isCorrect ? "bg-[#66f332]" : ""
+                    isAnswered && option.isCorrect
+                      ? "bg-[#66f332]"
+                      : isAnswered && selectedOption === index
+                      ? "bg-[#f44336]"
+                      : ""
                   }`}
                 />
                 <Label htmlFor={`r${index}`}>{option.text}</Label>
