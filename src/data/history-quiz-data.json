@@ -1,0 +1,192 @@
+[
+    {
+      "question": "Who was the first Caliph of Islam?",
+      "options": [
+        { "text": "Abu Bakr", "isCorrect": true },
+        { "text": "Umar ibn al-Khattab", "isCorrect": false },
+        { "text": "Uthman ibn Affan", "isCorrect": false },
+        { "text": "Ali ibn Abi Talib", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "In which battle did the Muslims conquer Mecca?",
+      "options": [
+        { "text": "Battle of Badr", "isCorrect": false },
+        { "text": "Battle of Uhud", "isCorrect": false },
+        { "text": "Conquest of Mecca", "isCorrect": true },
+        { "text": "Battle of the Trench", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which year is known as the 'Year of Sorrow' in Islamic history?",
+      "options": [
+        { "text": "620 CE", "isCorrect": false },
+        { "text": "619 CE", "isCorrect": true },
+        { "text": "622 CE", "isCorrect": false },
+        { "text": "624 CE", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Who was the last Rashidun Caliph?",
+      "options": [
+        { "text": "Ali ibn Abi Talib", "isCorrect": false },
+        { "text": "Umar ibn al-Khattab", "isCorrect": false },
+        { "text": "Uthman ibn Affan", "isCorrect": true },
+        { "text": "Muawiya I", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which Islamic scholar is known for his compilation of Hadith?",
+      "options": [
+        { "text": "Imam Bukhari", "isCorrect": true },
+        { "text": "Imam Malik", "isCorrect": false },
+        { "text": "Imam Muslim", "isCorrect": false },
+        { "text": "Imam Abu Hanifa", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Who founded the Umayyad Caliphate?",
+      "options": [
+        { "text": "Umar ibn al-Khattab", "isCorrect": false },
+        { "text": "Muawiya I", "isCorrect": true },
+        { "text": "Ali ibn Abi Talib", "isCorrect": false },
+        { "text": "Uthman ibn Affan", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "In which year did the Battle of Karbala take place?",
+      "options": [
+        { "text": "680 CE", "isCorrect": true },
+        { "text": "690 CE", "isCorrect": false },
+        { "text": "670 CE", "isCorrect": false },
+        { "text": "700 CE", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Who was the first Sultan of the Ottoman Empire?",
+      "options": [
+        { "text": "Osman I", "isCorrect": true },
+        { "text": "Mehmed II", "isCorrect": false },
+        { "text": "Suleiman the Magnificent", "isCorrect": false },
+        { "text": "Selim I", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which city served as the capital of the Abbasid Caliphate?",
+      "options": [
+        { "text": "Baghdad", "isCorrect": true },
+        { "text": "Damascus", "isCorrect": false },
+        { "text": "Cairo", "isCorrect": false },
+        { "text": "Cordoba", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Who was the first Mughal emperor of India?",
+      "options": [
+        { "text": "Babur", "isCorrect": true },
+        { "text": "Akbar", "isCorrect": false },
+        { "text": "Humayun", "isCorrect": false },
+        { "text": "Jahangir", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "In which year did the Reconquista end in Spain?",
+      "options": [
+        { "text": "1492", "isCorrect": true },
+        { "text": "1453", "isCorrect": false },
+        { "text": "1517", "isCorrect": false },
+        { "text": "1529", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Who was the founder of the Safavid dynasty in Iran?",
+      "options": [
+        { "text": "Shah Abbas I", "isCorrect": false },
+        { "text": "Shah Ismail I", "isCorrect": true },
+        { "text": "Shah Tahmasp I", "isCorrect": false },
+        { "text": "Shah Jahan", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which Islamic scholar is known for his work in astronomy?",
+      "options": [
+        { "text": "Al-Biruni", "isCorrect": true },
+        { "text": "Ibn Khaldun", "isCorrect": false },
+        { "text": "Al-Farabi", "isCorrect": false },
+        { "text": "Al-Ghazali", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Who was the first caliph of the Fatimid Caliphate?",
+      "options": [
+        { "text": "Abu al-Qasim", "isCorrect": false },
+        { "text": "Al-Mahdi Billah", "isCorrect": true },
+        { "text": "Al-Qa'im bi-Amr Allah", "isCorrect": false },
+        { "text": "Al-Mu'izz li-Din Allah", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Who founded the Ayyubid dynasty in Egypt?",
+      "options": [
+        { "text": "Saladin", "isCorrect": true },
+        { "text": "Alp Arslan", "isCorrect": false },
+        { "text": "Nur ad-Din", "isCorrect": false },
+        { "text": "Izz al-Din Aybak", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which Islamic scholar is known for his work in medicine?",
+      "options": [
+        { "text": "Ibn Sina (Avicenna)", "isCorrect": true },
+        { "text": "Ibn Rushd (Averroes)", "isCorrect": false },
+        { "text": "Al-Ghazali", "isCorrect": false },
+        { "text": "Al-Farabi", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Who was the last Sultan of the Ottoman Empire?",
+      "options": [
+        { "text": "Mehmed VI", "isCorrect": true },
+        { "text": "Abdul Hamid II", "isCorrect": false },
+        { "text": "Mehmed V", "isCorrect": false },
+        { "text": "Abdul Mejid I", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which Islamic scholar is known for his work in philosophy?",
+      "options": [
+        { "text": "Al-Farabi", "isCorrect": false },
+        { "text": "Avicenna (Ibn Sina)", "isCorrect": true },
+        { "text": "Al-Ghazali", "isCorrect": false },
+        { "text": "Averroes (Ibn Rushd)", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Who was the first Sultan of Delhi Sultanate in India?",
+      "options": [
+        { "text": "Qutb al-Din Aibak", "isCorrect": true },
+        { "text": "Iltutmish", "isCorrect": false },
+        { "text": "Balban", "isCorrect": false },
+        { "text": "Alauddin Khalji", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "In which year did the Battle of Tours take place?",
+      "options": [
+        { "text": "732 CE", "isCorrect": true },
+        { "text": "711 CE", "isCorrect": false },
+        { "text": "846 CE", "isCorrect": false },
+        { "text": "1096 CE", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Who was the first female ruler of the Muslim world?",
+      "options": [
+        { "text": "Razia Sultana", "isCorrect": true },
+        { "text": "Nur Jahan", "isCorrect": false },
+        { "text": "Zeb-un-Nisa", "isCorrect": false },
+        { "text": "Dilras Banu Begum", "isCorrect": false }
+      ]
+    }
+  ]
+  

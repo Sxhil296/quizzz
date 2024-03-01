@@ -5,9 +5,9 @@ import { GitHub } from "react-feather";
 
 const Home = () => {
   return (
-    <div className="max-w-[750px] mx-auto p-8 flex flex-col items-center justify-center mt-10 text-center gap-2">
+    <div className="max-w-[750px]  mx-auto p-8 flex flex-col items-center sm:justify-center  sm:mt-10 text-justify gap-2">
       <h2 className="text-xl font-medium dark:text-gray-400">Welcome to</h2>
-      <h1 className="font-bold text-4xl sm:text-6xl mb-4">Quizzz</h1>
+      <h1 className="font-bold text-4xl sm:text-6xl mb-2 sm:mb-4">Quizzz</h1>
       <p className="mb-4 font-medium dark:text-gray-400">
         Quizzz is a purposeful and enlightening web application designed to help
         Muslims test and enhance their knowledge about Islam. This platform
@@ -15,14 +15,14 @@ const Home = () => {
         etc. With a focus on education and self-improvement, Quizzz is here to
         help you enhance your knowledge of Islam.
       </p>
-      <div className="mt-4">
+      <div className="sm:mt-4">
         <div className="flex gap-2 flex-col">
-          <div className="flex gap-4 flex-1 ">
+          <div className="flex gap-2 sm:gap-4 flex-1 ">
             <p className="font-medium dark:text-gray-400">
               Test your knowledge on various topics related to{" "}
-              <span className="dark:text-white underline">Islam</span>. Quizzz offers quizzes
-              on prophets, Quran, history, and more. Challenge yourself and
-              learn!
+              <span className="dark:text-white underline">Islam</span>. Quizzz
+              offers quizzes on prophets, Quran, history, and more. Challenge
+              yourself and learn!
             </p>
             <div className="flex flex-col gap-2 flex-1">
               <Button>
@@ -43,8 +43,10 @@ const Home = () => {
             make Quizzz a more comprehensive and accurate resource for learning
             about Islam
           </p>
-          <Button>
-            Make it better on&nbsp; <GitHub />
+          <Button variant="secondary">
+            <Link to="https://github.com/Sxhil296/quizzz">
+              Make it better on&nbsp; <GitHub className="inline" />
+            </Link>
           </Button>
         </div>
       </div>

@@ -14,10 +14,10 @@ import { ModeToggle } from "../mode-toggle";
 
 const Header = () => {
   return (
-    <header className="bg-transparent dark:border-white dark:text-white w-full border-b-2 border-black py-2">
-    <div className="container mx-auto flex items-center justify-between">
-    <div className="text-2xl font-medium dark:text-white"><Link to='/'>Quizzz</Link></div>
-      <div className="flex gap-4">
+    <header className="bg-transparent dark:border-white dark:text-white w-full border-b-2 border-black py-2 px-0">
+    <div className="container mx-auto flex items-center justify-between px-2">
+    <div className="sm:text-2xl text-xl font-medium dark:text-white"><Link to='/'>Quizzz</Link></div>
+      <div className="flex gap-2 sm:gap-4">
        <Button >
        <DropdownMenu variant="outline">
           <DropdownMenuTrigger>Quizzes</DropdownMenuTrigger>
@@ -37,8 +37,9 @@ const Header = () => {
        </Button>
 
         <Link>
-          <Button variant="outline">
-            <GitHub />
+          <Button variant="outline" className="hidden sm:block">
+            <Link to={'https://github.com/Sxhil296/quizzz'}><GitHub /></Link>
+            
           </Button>
         </Link>
         <ModeToggle />

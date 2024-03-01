@@ -1,0 +1,210 @@
+[
+    {
+      "question": "Which Surah is known as the 'Heart of the Quran'?",
+      "options": [
+        { "text": "Surah Al-Fatiha", "isCorrect": false },
+        { "text": "Surah Al-Baqarah", "isCorrect": true },
+        { "text": "Surah Al-Ikhlas", "isCorrect": false },
+        { "text": "Surah Al-Kahf", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which Surah is known for its description of the Night of Decree (Laylat al-Qadr)?",
+      "options": [
+        { "text": "Surah Al-Qadr", "isCorrect": true },
+        { "text": "Surah Al-Fajr", "isCorrect": false },
+        { "text": "Surah Al-Qariah", "isCorrect": false },
+        { "text": "Surah Al-Asr", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which Surah is known for its description of the Day of Resurrection?",
+      "options": [
+        { "text": "Surah Al-Qiyamah", "isCorrect": true },
+        { "text": "Surah Al-Mulk", "isCorrect": false },
+        { "text": "Surah Al-Infitar", "isCorrect": false },
+        { "text": "Surah Al-Anfal", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which Surah is known for its description of the story of Prophet Yusuf (Joseph)?",
+      "options": [
+        { "text": "Surah Yusuf", "isCorrect": true },
+        { "text": "Surah Al-Kahf", "isCorrect": false },
+        { "text": "Surah Al-Anbiya", "isCorrect": false },
+        { "text": "Surah Al-Mumtahanah", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which Surah is known for its description of the story of the people of Thamud?",
+      "options": [
+        { "text": "Surah Al-Araf", "isCorrect": false },
+        { "text": "Surah Al-Fil", "isCorrect": false },
+        { "text": "Surah Al-Hijr", "isCorrect": true },
+        { "text": "Surah Al-Qamar", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which Surah is known for its description of the story of the people of 'Ad?",
+      "options": [
+        { "text": "Surah Al-Qamar", "isCorrect": false },
+        { "text": "Surah Al-Fil", "isCorrect": false },
+        { "text": "Surah Al-Qariah", "isCorrect": false },
+        { "text": "Surah Al-Fajr", "isCorrect": true }
+      ]
+    },
+    {
+      "question": "Which Surah is known for its description of the story of the people of Pharaoh?",
+      "options": [
+        { "text": "Surah Al-Qasas", "isCorrect": true },
+        { "text": "Surah Al-Muzzammil", "isCorrect": false },
+        { "text": "Surah Al-Mursalat", "isCorrect": false },
+        { "text": "Surah Al-Haqqah", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which Surah is known for its description of the story of the people of the Garden?",
+      "options": [
+        { "text": "Surah Al-Fajr", "isCorrect": false },
+        { "text": "Surah Al-Qalam", "isCorrect": false },
+        { "text": "Surah Al-Hashr", "isCorrect": true },
+        { "text": "Surah Al-Mutaffifin", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which Surah is known for its description of the story of the spider's web?",
+      "options": [
+        { "text": "Surah Al-Ankabut", "isCorrect": true },
+        { "text": "Surah Al-Nahl", "isCorrect": false },
+        { "text": "Surah Al-Fatihah", "isCorrect": false },
+        { "text": "Surah Al-Imran", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which Surah is known for its description of the story of the elephant?",
+      "options": [
+        { "text": "Surah Al-Fil", "isCorrect": true },
+        { "text": "Surah Al-Kawthar", "isCorrect": false },
+        { "text": "Surah Al-Ikhlas", "isCorrect": false },
+        { "text": "Surah Al-Fajr", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which Surah is known for its description of the story of the cave?",
+      "options": [
+        { "text": "Surah Al-Kahf", "isCorrect": true },
+        { "text": "Surah Al-Ankabut", "isCorrect": false },
+        { "text": "Surah Al-Muddathir", "isCorrect": false },
+        { "text": "Surah Al-Fajr", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which Surah is known for its description of the story of the two seas?",
+      "options": [
+        { "text": "Surah Al-Insan", "isCorrect": false },
+        { "text": "Surah Al-Kahf", "isCorrect": false },
+        { "text": "Surah Al-Baqarah", "isCorrect": false },
+        { "text": "Surah Ar-Rahman", "isCorrect": true }
+      ]
+    },
+    {
+      "question": "Which Surah is known for its description of the story of the man who owned two gardens?",
+      "options": [
+        { "text": "Surah Al-Baqarah", "isCorrect": false },
+        { "text": "Surah Al-Kahf", "isCorrect": false },
+        { "text": "Surah Al-Fajr", "isCorrect": false },
+        { "text": "Surah Al-Qalam", "isCorrect": true }
+      ]
+    },
+    {
+      "question": "Which Surah is known for its description of the story of the companions of the Sabbath?",
+      "options": [
+        { "text": "Surah Al-Qalam", "isCorrect": false },
+        { "text": "Surah Al-Baqarah", "isCorrect": false },
+        { "text": "Surah Al-Jumu'ah", "isCorrect": false },
+        { "text": "Surah Al-A'raf", "isCorrect": true }
+      ]
+    },
+    {
+      "question": "Which Surah is known for its description of the story of the she-camel of Prophet Saleh?",
+      "options": [
+        { "text": "Surah Al-A'raf", "isCorrect": false },
+        { "text": "Surah Al-Mursalat", "isCorrect": false },
+        { "text": "Surah Al-Fil", "isCorrect": false },
+        { "text": "Surah Al-Qamar", "isCorrect": true }
+      ]
+    },
+    {
+      "question": "Which Surah is known for its description of the story of the owners of the elephant?",
+      "options": [
+        { "text": "Surah Al-Ma'un", "isCorrect": false },
+        { "text": "Surah Al-Qalam", "isCorrect": false },
+        { "text": "Surah Al-Fil", "isCorrect": true },
+        { "text": "Surah Al-Kahf", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which Surah is known for its description of the story of the people of the trench?",
+      "options": [
+        { "text": "Surah Al-Ma'arij", "isCorrect": false },
+        { "text": "Surah Al-Buruj", "isCorrect": false },
+        { "text": "Surah Al-Fil", "isCorrect": false },
+        { "text": "Surah Al-Buruj", "isCorrect": true }
+      ]
+    },
+    {
+      "question": "Which Surah is known for its description of the story of the destruction of the 'Ad?",
+      "options": [
+        { "text": "Surah Al-Fil", "isCorrect": false },
+        { "text": "Surah Al-Haqqah", "isCorrect": false },
+        { "text": "Surah Al-A'raf", "isCorrect": false },
+        { "text": "Surah Al-Fajr", "isCorrect": true }
+      ]
+    },
+    {
+      "question": "Which Surah is known for its description of the story of the sleepers of the cave?",
+      "options": [
+        { "text": "Surah Al-Kahf", "isCorrect": true },
+        { "text": "Surah Al-Nisa", "isCorrect": false },
+        { "text": "Surah Al-Ma'idah", "isCorrect": false },
+        { "text": "Surah Al-Anfal", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which Surah is known for its description of the story of the cow?",
+      "options": [
+        { "text": "Surah Al-An'am", "isCorrect": false },
+        { "text": "Surah Al-Baqarah", "isCorrect": true },
+        { "text": "Surah Al-Ma'un", "isCorrect": false },
+        { "text": "Surah Al-Ikhlas", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which Surah is known for its description of the story of the elephant?",
+      "options": [
+        { "text": "Surah Al-Fil", "isCorrect": true },
+        { "text": "Surah Al-Kawthar", "isCorrect": false },
+        { "text": "Surah Al-Ikhlas", "isCorrect": false },
+        { "text": "Surah Al-Fajr", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which Surah is known for its description of the story of the prophet Moses (Musa) and Pharaoh?",
+      "options": [
+        { "text": "Surah Al-Muzzammil", "isCorrect": false },
+        { "text": "Surah Al-Qasas", "isCorrect": true },
+        { "text": "Surah Al-Mulk", "isCorrect": false },
+        { "text": "Surah Al-Kahf", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which Surah is known for its description of the story of the spider's web?",
+      "options": [
+        { "text": "Surah Al-Ankabut", "isCorrect": true },
+        { "text": "Surah Al-Nahl", "isCorrect": false },
+        { "text": "Surah Al-Fatihah", "isCorrect": false },
+        { "text": "Surah Al-Imran", "isCorrect": false }
+      ]
+    }
+  ]
+  
