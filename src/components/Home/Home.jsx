@@ -5,8 +5,8 @@ import { GitHub } from "react-feather";
 
 const Home = () => {
   return (
-    <div className="max-w-[750px]  mx-auto p-8 flex flex-col items-center sm:justify-center  sm:mt-10 text-justify gap-2">
-      <h2 className="text-xl font-medium dark:text-gray-400">Welcome to</h2>
+    <div className="max-w-[750px] mx-auto p-8 flex flex-col items-center sm:justify-center mt-10 sm:mt-14 text-justify gap-1 mb-12">
+      <h2 className="text-xl font-medium dark:text-gray-400 ">Welcome to</h2>
       <h1 className="font-bold text-4xl sm:text-6xl mb-2 sm:mb-4">Quizzz</h1>
       <p className="mb-4 font-medium dark:text-gray-400">
         Quizzz is a purposeful and enlightening web application designed to help

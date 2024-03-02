@@ -3,11 +3,23 @@ import { Link } from "react-router-dom";
 
 const Footer = () => {
   return (
-    <footer className="sm:fixed bottom-0 bg-black dark:bg-transparent text-white w-full px-2 py-4">
+    <footer className="fixed bottom-0 bg-black dark:bg-transparent text-white w-full px-2 py-4">
       <div className="flex justify-between items-center px-2 sm:px-4">
-        <div>&copy; 2024; All Rights Reserved</div>
+      <Link to="/" className="text-2xl font-bold text-white">
+            QUIZZZ.
+          </Link>
         <div>
-          Built by <Link to="#" className="underline">Sahil</Link>
+        <small className="text-white">
+            &copy;
+            {`${new Date().getFullYear()} `}
+            <a
+              href="#"
+              target="_blank"
+              className="underline hover:font-medium"
+            >
+             Sahil
+            </a>
+          </small>
         </div>
       </div>
     </footer>

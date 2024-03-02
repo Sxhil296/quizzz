@@ -14,7 +14,7 @@ import { ModeToggle } from "../mode-toggle";
 
 const Header = () => {
   return (
-    <header className="bg-transparent dark:border-white dark:text-white w-full border-b-2 border-black py-2 px-0">
+    <header className="bg-white dark:bg-[#0a0711] fixed top-0 dark:border-white dark:text-white w-full border-b-2 border-black py-2 px-0">
       <div className="container mx-auto flex items-center justify-between px-2">
         <div className="sm:text-2xl text-xl font-medium dark:text-white">
           <Link to="/">Quizzz</Link>
