@@ -45,6 +45,7 @@ const QuizCard = ({
     setIsAnswered(false);
     setSelectedOption(null);
     handlePreviousClick();
+    setScore(score - 1);
   };
 
   return (
@@ -81,13 +82,13 @@ const QuizCard = ({
             ))}
           </RadioGroup>
         </CardContent>
-        <CardFooter className="flex justify-between">
+        <CardFooter className="flex justify-between mt-2">
           <Button
             variant="outline"
             onClick={handlePrevious}
             disabled={currentQuestion === 0}
           >
-            Previous
+            Prev
           </Button>
           <div>
             Score: {score}/{currentQuestion + 1}
